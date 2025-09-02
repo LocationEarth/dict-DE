@@ -1,0 +1,289 @@
+﻿Keyword	Position	 	Klicks	Suchvolumen	Wettbewerber	Intent	CPC	URL
+nakd	5		4170	59800	59%	Webseite	2,40 EUR	https://tise.com/search/tise?search=NAKD
+get inspired	5	1	944	28400	48%	Webseite	1,00 EUR	https://tise.com/getinspired
+other stories	6		179	5250	43%	Webseite	5,50 EUR	https://tise.com/c/brand-Zs9ND0
+massimo dutti	8	-1	128	9650	46%	Webseite	5,50 EUR	https://tise.com/brands/massimo-dutti/SBy1f5
+holzweiler	9	3	127	13500	52%	Webseite	4,80 EUR	https://tise.com/holzweiler
+bodymod	5		125	1750	43%	Webseite	27,80 EUR	https://tise.com/search/tise?country_code=no&search=bodymod&location_max=country
+ballkjoler	6		77	1600	51%	Do	0,90 EUR	https://tise.com/search/tise?search=ballkjoler&location_max=country
+icaniwill	10	9	66	4350	45%	Webseite	2,40 EUR	https://tise.com/search/tise?search=IcanIwill
+mymuse	5		56	800	49%	Divers	1,90 EUR	https://tise.com/search/tise?country_code=no&search=mymuselingerie&location_max=country
+soundbox	10		52	2350	53%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=soundbox&location_max=country
+selskapskjoler	7	NEW	52	1350	51%	Do	1,00 EUR	https://tise.com/search/tise?search=Selskapskjoler&location_max=country
+xlmoto	9	1	46	4100	44%	Webseite	1,20 EUR	https://tise.com/search/tise?search=xlmoto&location_max=country
+brudepikekjole	5	6	39	550	42%	Do	4,30 EUR	https://tise.com/search/tise?search=brudepikekjole
+sixbondstreet	3		39	250	42%	Know Simple	5,00 EUR	https://tise.com/search/tise?search=sixbondstreet&location_max=country
+smykkestativ	6	-1	36	750	43%	Do	0,90 EUR	https://tise.com/search/tise?search=Smykkestativ&location_max=country
+sostyle	2	1	35	250	44%	Visit	2,30 EUR	https://tise.com/search/tise?country_code=no&search=sostyle&location_max=country
+gravidkjole	4	1	33	450	41%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=maternitydresses&location_max=country
+loftseng	7	NEW	32	800	49%	Do	2,00 EUR	https://tise.com/search/tise?search=loftseng&location_max=country
+dongerikjole	7		31	800	48%	Do	0,80 EUR	https://tise.com/search/tise?search=Dongerikjole&location_max=country
+korsett	10	13	30	1350	52%	Webseite	0,90 EUR	https://tise.com/search/tise?search=korsett&location_max=country
+bryllupskjole	8	2	28	900	47%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=bryllupskjole&location_max=country
+snekkerbukse	10		28	1250	51%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=Snekkerbukser&location_max=country
+ammekjole	6		28	600	42%	Visit	0,80 EUR	https://tise.com/search/tise?search=ammekjole
+juleservice	6		28	600	42%	Do	0,70 EUR	https://tise.com/search/tise?search=juleservice&location_max=country
+klaffebord	7	-1	28	750	49%	Do	1,70 EUR	https://tise.com/search/tise?search=klaffebord&location_max=country
+slagbord	3		26	250	44%	Do	1,60 EUR	https://tise.com/search/tise?country_code=no&search=slagbord&location_max=country
+strandkjole	10	NEW	26	1150	51%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=strandkjolen&location_max=country
+sminkebord	19	-1	26	5750	66%	Do	1,10 EUR	https://tise.com/search/tise?search=Sminkebord
+lanullva	8	-2	25	1850	41%	Webseite	15,80 EUR	https://tise.com/brands/lanullva/aztxmk?country_code=no
+ball kjole	9		25	950	44%	Do	0,80 EUR	https://tise.com/search/tise?search=ballkjoler&location_max=country
+stolseng	6		24	450	42%	Do	2,00 EUR	https://tise.com/search/tise?country_code=no&search=stolseng&location_max=country
+tweed jakke	8		24	800	44%	Do	0,70 EUR	https://tise.com/search/tise?search=tweedjakke&location_max=country
+brudesko	10	3	22	900	44%	Divers	0,90 EUR	https://tise.com/search/tise?search=brudesko&location_max=country
+gulvspeil	8	10	21	650	42%	Do	0,70 EUR	https://tise.com/search/tise?search=Gulvspeil&location_max=country
+ekornes	11	NEW	19	2000	40%	Webseite	5,00 EUR	https://tise.com/search/tise?country_code=no&brand=73y5y7&location_max=country
+lv belte	8	-1	19	600	42%	Do	1,60 EUR	https://tise.com/t/1KpHC6yJs
+coverbrands	18	1	18	3550	46%	Webseite	2,00 EUR	https://tise.com/search/tise?search=coverbrands&location_max=country
+kurvstativ	10	NEW	17	750	44%	Do	1,10 EUR	https://tise.com/search/tise?search=kurvstativ
+stellebord	15	1	17	2600	55%	Do	1,70 EUR	https://tise.com/search/tise?search=stellebord
+aimn tights	9		15	550	43%	Do	2,00 EUR	https://tise.com/search/tise?brand=xQCrJU&location_max=country
+avlastningsbord	17	NEW	15	2700	54%	Do	0,70 EUR	https://tise.com/search/tise?country_code=NO&search=Avlastningsbord&location_max=country
+fjellreven keb	8	2	13	400	40%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=Keb&location_max=country
+didriksons	11	4	12	1250	49%	Do	1,00 EUR	https://tise.com/brands/didriksons/SquToF
+kort ballkjole	9		12	450	42%	Do	0,80 EUR	https://tise.com/search/tise?country_code=NO&search=ballkjoler&location_max=country
+escada parfyme	13	11	11	1350	52%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=ESCADA&location_max=country
+wedgewood	10		11	450	47%	Do	1,30 EUR	https://tise.com/search/tise?country_code=no&search=wedgewood&location_max=country
+kjøkkensofa	9	1	11	400	41%	Do	1,30 EUR	https://tise.com/search/tise?search=kj%C3%B8kkensofa&location_max=country
+sovestol	15		10	1600	52%	Do	1,40 EUR	https://tise.com/search/tise?country_code=no&search=Sovestol&location_max=country
+bærejakke	9	NEW	10	350	40%	Do	1,80 EUR	https://tise.com/t/nAJhwalC0
+barskap	13	-2	9	1200	51%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=Barskap&location_max=country
+gjesteseng	14	2	8	1250	50%	Do	1,60 EUR	https://tise.com/search/tise?country_code=no&search=gjesteseng&location_max=country
+minmote	12	3	8	950	40%	Webseite	1,50 EUR	https://tise.com/search/tise?country_code=no&search=MINMOTE&location_max=country
+kjøpmannsdisk	10	-1	8	350	40%	Do	1,10 EUR	https://tise.com/search/tise?search=kj%C3%B8pmannsdisk&location_max=country
+holzweiler genser	16	NEW	7	1300	46%	Do	3,30 EUR	https://tise.com/brands/holzweiler/R4jOKa?country_code=NO
+mokkasiner	15		7	1200	56%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=mokkasiner&location_max=country
+fotskammel	15	1	7	1100	51%	Do	1,10 EUR	https://tise.com/search/tise?search=fotskammel&location_max=country
+cocktailkjole	11	-4	6	650	42%	Do	1,20 EUR	https://tise.com/search/tise?search=CocktailKjole
+massasjebenk	11	-2	6	650	42%	Do	2,60 EUR	https://tise.com/search/tise?search=massasjebenk
+skrivepult	7	15	6	150	42%	Do	2,20 EUR	https://tise.com/search/tise?search=skrivepult&location_max=country
+arsenal drakt	16	-6	5	850	45%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=arsenal&location_max=country
+entrebenk	13		5	700	44%	Do	1,30 EUR	https://tise.com/search/tise?country_code=NO&search=entrebenk&location_max=country
+jærstol	9	5	5	100	46%	Divers	1,70 EUR	https://tise.com/search/tise?country_code=NO&search=j%C3%A6rstol&location_max=country
+turbukse gravid	5		5	150	40%	Do	1,10 EUR	https://tise.com/t/mXoZrAtO2
+alfa fjellsko	11	8	4	450	42%	Divers	1,80 EUR	https://tise.com/search/tise?brand=sVjIuu&location_max=country
+blazerkjole	6		4	100	44%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=blazerkjole&location_max=country
+champagnekjøler	16	NEW	4	800	48%	Do	2,20 EUR	https://tise.com/search/tise?country_code=no&search=champagnekj%C3%B8ler&location_max=country
+julepysjamas	20	-10	4	950	44%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=julepysjamas&location_max=country
+skuffeseksjon	18	-5	4	800	43%	Do	2,70 EUR	https://tise.com/search/tise?country_code=no&search=skuffeseksjon&location_max=country
+snowboard jakke	13	1	4	600	42%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=snowboardjakke&location_max=country
+rislampe	15	NEW	4	600	42%	Do	0,70 EUR	https://tise.com/search/tise?search=rislampe&location_max=country
+skinnsofa	19	-9	4	950	49%	Do	1,80 EUR	https://tise.com/search/tise?search=skinnsofa&location_max=country
+skinnstol	9	-2	4	150	41%	Do	1,10 EUR	https://tise.com/search/tise?search=skinnstol&location_max=country
+utelykter	12	1	4	550	42%	Do	0,80 EUR	https://tise.com/search/tise?search=utelykter&location_max=country
+vinhylle	13	4	4	500	46%	Do	1,20 EUR	https://tise.com/search/tise?search=vinhylle&location_max=country
+badebalje voksen	18	-4	4	950	44%	Do	1,00 EUR	https://tise.com/t/4lhn7xZ7d
+korres hårfarge	16	NEW	4	650	42%	Do	1,00 EUR	https://tise.com/t/BDhkTuW8J
+globus barskap	7		4	150	43%	Do	3,30 EUR	https://tise.com/t/GLKLjnyWv
+woolrich jakke	11		3	350	46%	Do	2,00 EUR	https://tise.com/brands/woolrich/KciLgk
+afterski outfit	13	-2	3	400	41%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=AfterSki&location_max=country
+ammeklær	14		3	550	41%	Do	1,10 EUR	https://tise.com/search/tise?country_code=NO&search=Ammekl%C3%A6r&location_max=country
+glassmonter	11	1	3	350	40%	Do	1,80 EUR	https://tise.com/search/tise?country_code=no&search=glassmonter&location_max=country
+johaug jakke	17	15	3	650	43%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=johaug&location_max=country
+kontorpult	17	15	3	550	43%	Do	3,50 EUR	https://tise.com/search/tise?country_code=no&search=kontorpult&location_max=country
+solspeil	10	1	3	100	40%	Visit	2,20 EUR	https://tise.com/search/tise?country_code=no&search=solspeil&location_max=country
+golfkøller	16	3	3	550	43%	Know	0,70 EUR	https://tise.com/search/tise?search=golfk%C3%B8ller
+julekopper	17		3	700	42%	Do	1,00 EUR	https://tise.com/search/tise?search=julekopper&location_max=country
+selskinnsko	16	-10	3	650	42%	Do	1,40 EUR	https://tise.com/t/7PRN564qd
+elsa kjole	12	-1	3	400	46%	Do	1,10 EUR	https://tise.com/t/Pv3NWzEQv
+levis 501 herre	16	NEW	3	600	46%	Do	1,40 EUR	https://tise.com/t/tarjSqXp0
+snekkerbukse barn	11	-1	3	400	41%	Do	0,80 EUR	https://tise.com/t/uo1mbaFAd
+odd molly	13	-2	2	350	46%	Do	1,20 EUR	https://tise.com/c/brand-g_yB93
+fotballdrakt	15	NEW	2	350	45%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=FotballDrakt&location_max=country
+decleor	10	-1	2	100	46%	Do	0,70 EUR	https://tise.com/search/tise?search=decleor
+marmorbord	20	14	2	450	42%	Do	0,90 EUR	https://tise.com/search/tise?search=marmorbord&location_max=country
+sengebord	17	NEW	2	400	40%	Visit	1,00 EUR	https://tise.com/search/tise?search=sengebord
+sminkebag	15	1	2	400	40%	Do	1,60 EUR	https://tise.com/search/tise?search=Sminkebag&location_max=country
+sykkelklær	18	34	2	550	42%	Do	1,30 EUR	https://tise.com/search/tise?search=sykkelkl%C3%A6r&location_max=country
+tragus	15	-1	2	350	43%	Do	1,90 EUR	https://tise.com/search/tise?search=Tragus&location_max=country
+treningsgenser	19		2	500	46%	Do	0,80 EUR	https://tise.com/search/tise?search=TRENINGSGENSER
+boston sofa	20	-4	2	500	47%	Do	0,80 EUR	https://tise.com/t/ALIuoQZWw
+byredo parfyme	19	1	2	400	44%	Do	0,80 EUR	https://tise.com/t/NRGY6j7oN
+sengeslange	18	3	2	400	49%	Do	1,00 EUR	https://tise.com/t/sQZU7gBBR
+cottage	12		1	150	41%	Know	1,10 EUR	https://tise.com/search/tise?country_code=no&brand=r64xh5&location_max=country
+basketsko	17	-3	1	200	42%	Do	0,90 EUR	https://tise.com/search/tise?country_code=NO&search=basketsko&location_max=country
+bryllupskjoler	20	NEW	1	300	44%	Do	0,80 EUR	https://tise.com/search/tise?country_code=NO&search=bryllupskjoler
+lederhosen	12	4	1	150	53%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=lederhosen&location_max=country
+stenstrøms	17	-2	1	200	44%	Visit	1,00 EUR	https://tise.com/search/tise?country_code=no&search=stenstr%C3%B8ms&location_max=country
+trebenk	20	NEW	1	400	44%	Do	1,30 EUR	https://tise.com/search/tise?country_code=no&search=trebenk&location_max=country
+sari	11	NEW	1	100	41%	Do	1,40 EUR	https://tise.com/search/tise?search=sari&location_max=country
+lintøyskap	12	-1	1	200	43%	Do	1,90 EUR	https://tise.com/t/6XuG4AOrx
+swix genser	22	-4	0	1200	45%	Do	0,70 EUR	https://tise.com/brands/swix/h2LWMS
+ganni	27	-7	0	9800	66%	Visit	1,00 EUR	https://tise.com/c/brand-gDpMQX
+golfballer	23	NEW	0	600	48%	Divers	0,70 EUR	https://tise.com/golfballer
+isabelle ringnes	33		0	2500	43%	Divers	5,20 EUR	https://tise.com/isabelleringnes
+herreklær	80	NEW	0	1250	45%	Visit	1,50 EUR	https://tise.com/no
+joggedress herre	66	NEW	0	450	41%	Do	1,00 EUR	https://tise.com/no
+kjoler dame	79	7	0	2700	49%	Do	1,20 EUR	https://tise.com/no
+klær dame	90	NEW	0	2250	48%	Do	1,00 EUR	https://tise.com/no
+klær på nett	44	-1	0	850	41%	Do	1,60 EUR	https://tise.com/no
+merkeklær	57	-23	0	400	40%	Visit	1,20 EUR	https://tise.com/no
+pc veske	87	-1	0	1700	47%	Do	0,80 EUR	https://tise.com/no
+pc veske herre	57	-3	0	700	40%	Do	0,70 EUR	https://tise.com/no
+salg klær	69	2	0	600	48%	Do	0,80 EUR	https://tise.com/no
+treningsklær herre	75	12	0	1500	46%	Do	1,50 EUR	https://tise.com/no
+kenwood major	37	-12	0	1650	53%	Do	0,70 EUR	https://tise.com/search/tise?brand=ad1bef&location_max=country
+verner panton	39	3	0	300	45%	Know Simple	1,80 EUR	https://tise.com/search/tise?brand=yabe9a
+stisykkel	48	NEW	0	100	44%	Do	1,40 EUR	https://tise.com/search/tise?country_code=no&category=outdoor.biking.mountainbike&location_max=country
+akevittglass	49	1	0	450	42%	Do	1,40 EUR	https://tise.com/search/tise?country_code=no&search=akevitt&location_max=country
+akrylnegler	28	-19	0	350	48%	Do	1,30 EUR	https://tise.com/search/tise?country_code=no&search=akrylnegler&location_max=country
+allværsjakke herre	62	-7	0	600	42%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=allv%C3%A6rsjakke
+vugge	43	-6	0	400	40%	Visit	0,80 EUR	https://tise.com/search/tise?country_code=no&search=babyvugge&location_max=country
+baderomslampe	38		0	450	46%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=baderomslampe&location_max=country
+balkongmøbler	32	8	0	450	41%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=balkongm%C3%B8bler&location_max=country
+beanie	33	NEW	0	850	50%	Do	0,90 EUR	https://tise.com/search/tise?country_code=NO&search=BEANIE&location_max=country
+bergans fløyen	27		0	350	40%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=bergansfl%C3%B8yen&location_max=country
+bodylab proteinpulver	24	2	0	500	42%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=bodylab&location_max=country
+budalsstol	17	-5	0	100	40%	Divers	1,60 EUR	https://tise.com/search/tise?country_code=no&search=Budalsstol&location_max=country
+colmar	48	-29	0	1200	53%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=COLMAR&location_max=country
+dobbeltseng	32	NEW	0	1100	51%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=dobbeltseng&location_max=country
+dusjdør	66	-1	0	750	48%	Do	0,90 EUR	https://tise.com/search/tise?country_code=NO&search=dusjd%C3%B8rer&location_max=country
+dusjdører	57	-4	0	1300	46%	Do	0,90 EUR	https://tise.com/search/tise?country_code=NO&search=dusjd%C3%B8rer&location_max=country
+fikentre	24	-5	0	350	43%	Divers	1,20 EUR	https://tise.com/search/tise?country_code=no&search=fikentre&location_max=country
+fjellduk	37	NEW	0	100	43%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=fjellduk&location_max=country
+fjellsko	50	-5	0	600	48%	Do	1,10 EUR	https://tise.com/search/tise?country_code=no&search=fjellsko&location_max=country
+fotballdrakter	28	-15	0	200	42%	Do	0,90 EUR	https://tise.com/search/tise?country_code=NO&search=Fotballdrakter&location_max=country
+futsalsko	24	1	0	1100	45%	Divers	1,00 EUR	https://tise.com/search/tise?country_code=no&search=futsall&location_max=country
+gaming skjerm	38	3	0	1650	47%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=Gamingskjerm&location_max=country
+gaming tastatur	31	1	0	850	50%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=gamingtastatur&location_max=country
+gasskomfyr	37	NEW	0	650	47%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=gasskomfyr&location_max=country
+glassbord	26	-5	0	650	47%	Do	1,40 EUR	https://tise.com/search/tise?country_code=no&search=glassbord&location_max=country
+gore tex	64	-8	0	800	42%	Know	0,80 EUR	https://tise.com/search/tise?country_code=no&search=goreTex&location_max=country
+gravlykt	31	11	0	650	42%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=gravlykt&location_max=country
+gyngestol	32	10	0	2200	56%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=Gyngestol&location_max=country
+hattehylle	62	16	0	2000	52%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=hattehylle&location_max=country
+håndballsko	23	-2	0	1300	50%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=h%C3%A5ndballsko&location_max=country
+hårfjerningskrem	29	NEW	0	800	44%	Know	0,70 EUR	https://tise.com/search/tise?country_code=no&search=h%C3%A5rfjerningskrem&location_max=country
+høyhalset genser	43	6	0	350	40%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=H%C3%B8yhalsetGenser&location_max=country
+hjørnesofa	45	-2	0	2250	54%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=hj%C3%B8rnesofa&location_max=country
+ipad holder	59	-13	0	300	45%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=ipadholder&location_max=country
+kattemat	63	2	0	1150	46%	Divers	2,20 EUR	https://tise.com/search/tise?country_code=no&search=kattemat&location_max=country
+kjøkkenhylle	44	1	0	600	45%	Do	1,60 EUR	https://tise.com/search/tise?country_code=no&search=kj%C3%B8kkenhylle&location_max=country
+knestøtte	41	5	0	1650	48%	Do	1,70 EUR	https://tise.com/search/tise?country_code=no&search=knest%C3%B8tte&location_max=country
+kompresjonsstrømper	59	-30	0	350	43%	Do	1,30 EUR	https://tise.com/search/tise?country_code=no&search=kompresjonsstr%C3%B8mper&location_max=country
+lameller	29		0	2400	59%	Do	3,10 EUR	https://tise.com/search/tise?country_code=no&search=lameller&location_max=country
+langrennsbukse dame	26		0	350	40%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=Langrennsbukse&location_max=country
+le creuset	22		0	3450	41%	Webseite	0,70 EUR	https://tise.com/search/tise?country_code=NO&search=LeCreuset&location_max=country
+led lenser	36	NEW	0	550	48%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=Ledlenser&location_max=country
+lekestativ	37	NEW	0	400	46%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=lekestativ&location_max=country
+lounge stol	49	1	0	450	42%	Do	1,50 EUR	https://tise.com/search/tise?country_code=no&search=Loungestol&location_max=country
+loungestol	29	2	0	2000	52%	Do	1,50 EUR	https://tise.com/search/tise?country_code=no&search=Loungestol&location_max=country
+lysekrone	40	1	0	1700	55%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=lysekrone&location_max=country
+magnettavle	26	-5	0	800	49%	Do	1,90 EUR	https://tise.com/search/tise?country_code=no&search=magnettavle&location_max=country
+marmor bord	21	8	0	750	44%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=Marmorplate&location_max=country
+merkemaskin	37	-6	0	750	44%	Know Simple	2,50 EUR	https://tise.com/search/tise?country_code=NO&search=merkemaskin&location_max=country
+strømpebukse	80	5	0	1750	47%	Know	0,90 EUR	https://tise.com/search/tise?country_code=no&search=mpstr%C3%B8mpebukse&location_max=country
+nøkkelboks	76	-19	0	1950	56%	Do	1,70 EUR	https://tise.com/search/tise?country_code=no&search=N%C3%B8kkelboks&location_max=country
+nøkkelskap	44	4	0	2500	49%	Do	3,20 EUR	https://tise.com/search/tise?country_code=no&search=N%C3%B8kkelskap&location_max=country
+ostepop	44	NEW	0	850	50%	Divers	0,80 EUR	https://tise.com/search/tise?country_code=no&search=ostepop&location_max=country
+pakkeposer	21	3	0	450	42%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=pakkeposer&location_max=country
+pendel	36	9	0	1050	41%	Webseite	1,00 EUR	https://tise.com/search/tise?country_code=no&search=pendel&location_max=country
+rammemadrass	38		0	750	48%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=rammemadrasser&location_max=country
+røroshetta	22	1	0	1700	40%	Webseite	0,90 EUR	https://tise.com/search/tise?country_code=no&search=r%C3%B8roshetta&location_max=country
+reisevogn	24	-1	0	800	49%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=reisevogn&location_max=country
+saccosekk	37	-17	0	850	50%	Do	1,50 EUR	https://tise.com/search/tise?country_code=no&search=saccosekk&location_max=country
+serviser	77	-2	0	200	43%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=serviser&location_max=country
+sirkelsag	75	NEW	0	4200	62%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=sirkelsag&location_max=country
+skidress	37	-15	0	250	49%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=skidress&location_max=country
+skinnveske	42	1	0	450	46%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=SkinnVeske&location_max=country
+snekkerbukse herre	38	NEW	0	600	43%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=Snekkerbukser&location_max=country
+sofagruppe	37	NEW	0	250	43%	Do	1,40 EUR	https://tise.com/search/tise?country_code=no&search=sofagruppe&location_max=country
+sofaputer	53	-26	0	1200	46%	Do	0,80 EUR	https://tise.com/search/tise?country_code=NO&search=sofaputer&location_max=country
+sovesofa	44	NEW	0	5000	57%	Do	1,30 EUR	https://tise.com/search/tise?country_code=no&search=sovesofa&location_max=country
+sovesofa tilbud	33	NEW	0	450	41%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=sovesofa&location_max=country
+spa bad	82		0	400	41%	Do	2,80 EUR	https://tise.com/search/tise?country_code=no&search=spabad&location_max=country
+spabad	62	-6	0	1250	50%	Do	2,80 EUR	https://tise.com/search/tise?country_code=no&search=spabad&location_max=country
+spisestoler	64	-1	0	7250	53%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=Spisestoler&location_max=country
+spisestue stoler	42	-10	0	500	42%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=Spisestuestoler&location_max=country
+spisestuestoler	30	-5	0	3100	55%	Do	1,00 EUR	https://tise.com/search/tise?country_code=no&search=Spisestuestoler&location_max=country
+sportsbriller	58	NEW	0	850	48%	Do	1,50 EUR	https://tise.com/search/tise?country_code=no&search=sportsbriller&location_max=country
+stue bord	39	NEW	0	450	42%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=stuebord&location_max=country
+stumtjener	57	-6	0	1600	51%	Do	0,70 EUR	https://tise.com/search/tise?country_code=no&search=stumtjener&location_max=country
+teak møbler	44	NEW	0	200	40%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=Teak&location_max=country
+tennissokker	55	NEW	0	1200	46%	Do	1,10 EUR	https://tise.com/search/tise?country_code=no&search=tennissokker&location_max=country
+trappemaskin	51	2	0	550	42%	Divers	0,70 EUR	https://tise.com/search/tise?country_code=no&search=treningsmaskin&location_max=country
+treningsshorts	30	-6	0	2250	53%	Do	0,80 EUR	https://tise.com/search/tise?country_code=no&search=treningsshorts&location_max=country
+tv benk	59	NEW	0	2600	49%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=TvBenk&location_max=country
+tv stativ	44	-2	0	450	44%	Do	0,90 EUR	https://tise.com/search/tise?country_code=no&search=tvstativ&location_max=country
+twentyfour anorakk	30	2	0	700	43%	Do	0,90 EUR	https://tise.com/search/tise?country_code=NO&search=TwentyfourAnorakk&location_max=country
+ull bh	89	NEW	0	350	40%	Do	1,20 EUR	https://tise.com/search/tise?country_code=no&search=ullbh&location_max=country
+ullpledd salg	31	1	0	450	40%	Do	1,10 EUR	https://tise.com/search/tise?country_code=no&search=ullpledd&location_max=country
+viking sko	25		0	1650	47%	Divers	1,30 EUR	https://tise.com/search/tise?country_code=no&search=Vikingsko&location_max=country
+vinholder	26	NEW	0	150	42%	Do	1,10 EUR	https://tise.com/search/tise?country_code=no&search=vinholder&location_max=country
+aktivitetsbord	21	-1	0	350	45%	Do	0,70 EUR	https://tise.com/search/tise?search=aktivitetsbord
+balaklava	44	NEW	0	4200	62%	Know	0,90 EUR	https://tise.com/search/tise?search=Balaklava
+balkongskjerming	23	-1	0	250	42%	Do	1,30 EUR	https://tise.com/search/tise?search=balkongskjerming&location_max=country
+biffbestikk	31	7	0	550	42%	Do	0,90 EUR	https://tise.com/search/tise?search=biffbestikk&location_max=country
+boksehansker	28	NEW	0	150	41%	Do	0,70 EUR	https://tise.com/search/tise?search=Boksehansker&location_max=country
+bokstøtte	30	2	0	1600	51%	Do	1,70 EUR	https://tise.com/search/tise?search=bokst%C3%B8tte
+bordkort	52	NEW	0	1750	53%	Do	1,50 EUR	https://tise.com/search/tise?search=bordkort
+cutlery	55	15	0	100	40%	Do	1,90 EUR	https://tise.com/search/tise?search=cutlery&location_max=country
+dongeribukse	70	-26	0	950	50%	Visit	0,80 EUR	https://tise.com/search/tise?search=dongeribukser&location_max=country
+dorullholder	56	NEW	0	2050	49%	Know Simple	0,70 EUR	https://tise.com/search/tise?search=dorullholder&location_max=country
+fjellskisko	33		0	100	40%	Do	1,30 EUR	https://tise.com/search/tise?search=fjellskisko&location_max=country
+fjellsport	26	NEW	0	14100	52%	Webseite	8,60 EUR	https://tise.com/search/tise?search=fjellsport
+billige gardiner	70	NEW	0	300	40%	Do	1,50 EUR	https://tise.com/search/tise?search=gardiner
+grønnsakskutter	45	-13	0	800	43%	Do	2,50 EUR	https://tise.com/search/tise?search=gr%C3%B8nnsakskutter&location_max=country
+isformer	46	-3	0	350	46%	Do	0,90 EUR	https://tise.com/search/tise?search=isformer
+jenteklær	21	5	0	200	41%	Do	1,10 EUR	https://tise.com/search/tise?search=Jentekl%C3%A6r&location_max=country
+køyeseng	26	15	0	800	54%	Do	2,00 EUR	https://tise.com/search/tise?search=k%C3%B8yeseng&location_max=country
+kjøkkenkran	50	-6	0	1350	51%	Do	1,10 EUR	https://tise.com/search/tise?search=kj%C3%B8kkenkran&location_max=country
+kjøkkenlampe	24		0	450	42%	Do	0,80 EUR	https://tise.com/search/tise?search=Kj%C3%B8kkenlampe
+kjøkkenredskap	48	4	0	350	40%	Visit	1,20 EUR	https://tise.com/search/tise?search=Kj%C3%B8kkenredskap
+kokkekniv	39	NEW	0	700	51%	Do	1,00 EUR	https://tise.com/search/tise?search=Kokkekniv
+kollagenpulver	47	NEW	0	150	40%	Do	3,90 EUR	https://tise.com/search/tise?search=kollagenpulver&location_max=country
+kontorutstyr	44	3	0	150	43%	Know	2,70 EUR	https://tise.com/search/tise?search=kontorutstyr
+løpevest	48	-3	0	5700	53%	Divers	0,80 EUR	https://tise.com/search/tise?search=l%C3%B8pevest
+nøtteknekker	46	NEW	0	350	45%	Divers	1,90 EUR	https://tise.com/search/tise?search=n%C3%B8tteknekker
+perlemor	56	-8	0	100	41%	Divers	0,70 EUR	https://tise.com/search/tise?search=perlemor&location_max=country
+plantekasse	62	NEW	0	900	52%	Do	0,80 EUR	https://tise.com/search/tise?search=Plantekasser
+plissegardin	60	NEW	0	9650	63%	Do	3,90 EUR	https://tise.com/search/tise?search=plissegardiner&location_max=country
+predator fotballsko	28	5	0	300	42%	Do	0,70 EUR	https://tise.com/search/tise?search=predator&location_max=country
+reiseveske	34	NEW	0	350	45%	Do	0,80 EUR	https://tise.com/search/tise?search=Reiseveske
+rotting stol	24	NEW	0	500	45%	Do	0,80 EUR	https://tise.com/search/tise?search=rotting
+selebukse	68	-2	0	500	42%	Do	0,80 EUR	https://tise.com/search/tise?search=selebukse&location_max=country
+sittebenk	36	NEW	0	1500	55%	Do	1,90 EUR	https://tise.com/search/tise?search=sittebenk&location_max=country
+skibriller	43	-3	0	100	40%	Do	1,90 EUR	https://tise.com/search/tise?search=skibriller&location_max=country
+skiklær	49	-1	0	850	43%	Divers	1,00 EUR	https://tise.com/search/tise?search=Skikl%C3%A6r&location_max=country
+skoskje	59	-7	0	700	43%	Do	2,10 EUR	https://tise.com/search/tise?search=skoskje&location_max=country
+sminkefjerner	22	NEW	0	500	47%	Do	2,40 EUR	https://tise.com/search/tise?search=Sminkefjerner
+spisebenk	25	NEW	0	400	40%	Do	1,30 EUR	https://tise.com/search/tise?search=Spisebenk&location_max=country
+støvsugerposer	30	NEW	0	1800	47%	Visit	1,40 EUR	https://tise.com/search/tise?search=st%C3%B8vsugerposer&location_max=country
+steketermometer	40	8	0	2400	54%	Do	1,10 EUR	https://tise.com/search/tise?search=steketermometer&location_max=country
+stellebag	24	-7	0	500	41%	Do	1,00 EUR	https://tise.com/search/tise?search=Stellebag&location_max=country
+stillongs	74	6	0	350	40%	Divers	1,00 EUR	https://tise.com/search/tise?search=stilongs
+stilongs	38	-8	0	700	43%	Know Simple	1,30 EUR	https://tise.com/search/tise?search=stilongs
+stoler	64	NEW	0	2150	53%	Do	0,90 EUR	https://tise.com/search/tise?search=stoler
+tørkerull	39	3	0	350	40%	Do	2,40 EUR	https://tise.com/search/tise?search=t%C3%B8rkerull
+tennisskjørt	25	-6	0	450	41%	Do	0,70 EUR	https://tise.com/search/tise?search=Tennisskj%C3%B8rt&location_max=country
+tragus piercing	34	-2	0	700	43%	Do	1,50 EUR	https://tise.com/search/tise?search=Tragus&location_max=country
+trådkurver	25		0	550	42%	Do	1,00 EUR	https://tise.com/search/tise?search=tr%C3%A5dkurver&location_max=country
+trekasse	24	1	0	1350	46%	Do	1,50 EUR	https://tise.com/search/tise?search=trekasse&location_max=country
+trekasser	38	-6	0	450	44%	Do	1,50 EUR	https://tise.com/search/tise?search=trekasser&location_max=country
+trillebord	75	-15	0	2700	55%	Do	1,00 EUR	https://tise.com/search/tise?search=trillebord&location_max=country
+vegglysestake	43	-5	0	600	42%	Do	1,60 EUR	https://tise.com/search/tise?search=Vegglysestake&location_max=country
+xplora klokke	34	-12	0	2600	55%	Do	1,10 EUR	https://tise.com/search/tise?search=xplora&location_max=country
+gravid tights	26	-4	0	450	42%	Do	1,50 EUR	https://tise.com/t/5POPam57g
+arbeidsbukse barn	43		0	700	44%	Do	1,70 EUR	https://tise.com/t/8gJ3ADP73
+beckmann sekk	56	-3	0	2900	50%	Do	1,00 EUR	https://tise.com/t/D2pLo57n4
+beckmann skolesekk	51	-6	0	3200	50%	Divers	1,10 EUR	https://tise.com/t/D2pLo57n4
+elefantfot	36	3	0	250	41%	Divers	1,50 EUR	https://tise.com/t/dRRV0YPXP
+ullundertøy	63	-2	0	2450	53%	Do	1,00 EUR	https://tise.com/t/FHFHs9K2P
+arcteryx skalljakke	50	NEW	0	600	43%	Do	0,70 EUR	https://tise.com/t/ftMGKqGmY
+bergans dunjakke	40	-3	0	750	44%	Do	0,70 EUR	https://tise.com/t/KjrE1kyx
+fjellreven bukse	43	-32	0	800	43%	Do	0,80 EUR	https://tise.com/t/kM7BIDYKj
+tights	49	-16	0	22600	55%	Webseite	11,50 EUR	https://tise.com/t/OcBMQ5xYw
+hundeblåser	28		0	450	42%	Divers	2,20 EUR	https://tise.com/t/ojxqqb06x
+himmelseng	42	-2	0	700	49%	Do	1,10 EUR	https://tise.com/t/OvpYqrJdM
+uv drakt	72	NEW	0	500	41%	Do	0,90 EUR	https://tise.com/t/p2HZQdAtL
+stellebord med badekar	38	-3	0	650	40%	Do	0,80 EUR	https://tise.com/t/PleZyPvTP
+vegghengt skrivebord	27	-3	0	350	44%	Do	2,40 EUR	https://tise.com/t/PR7WRF72l
+morris half zip	28	2	0	1600	45%	Do	1,00 EUR	https://tise.com/t/pyveiVimK
+vegghengt tv benk	22	3	0	250	42%	Do	1,50 EUR	https://tise.com/t/QQc8Xv9Wm
+lysestake	71	8	0	2500	57%	Do	0,80 EUR	https://tise.com/t/r8xBjVJ20
+skjærefjøl	57	5	0	3500	59%	Divers	1,00 EUR	https://tise.com/t/Rg3Nqwmki
+ved stativ	47	-15	0	300	42%	Do	0,90 EUR	https://tise.com/t/Xgq0gYE8j
+liverpool drakt	43	-1	0	2500	53%	Do	1,20 EUR	https://tise.com/t/YnDes3QBi
+gravidbukse	23	-2	0	550	42%	Do	0,70 EUR	https://tise.com/t/yzAn4Gaaf
+ulltrøye	50	1	0	650	47%	Do	1,00 EUR	https://tise.com/t/Z5PbkrkmG
